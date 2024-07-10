@@ -1,0 +1,11 @@
+accelerate==0.22.0
+pyforest
+inflect
+contractions
+beautifulsoup4
+nltk
+transformers[torch]
+tensorflow
+wordcloud
+keras
+scikit-learn
